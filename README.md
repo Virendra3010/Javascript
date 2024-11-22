@@ -1,3 +1,3 @@
 # Javascript
 javascript tutorial
-Virendra Patel
+Name - Virendra Patel
